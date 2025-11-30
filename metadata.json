@@ -1,0 +1,9 @@
+{
+  "name": "BOUGHT AI",
+  "description": "An advanced AI suite featuring Image Editing, Video Generation (Veo), Live Audio Conversation, Search Grounding, and more, styled like ChatGPT.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
